@@ -1,1 +1,3 @@
----This is First file in git 
+---This is First file in git
+I made a small change 
+I added a text line &&&& ****
